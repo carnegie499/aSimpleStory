@@ -1,3 +1,3 @@
 # aSimpleStory
 
-I dont know what im doing.
+I dont know what im doing
